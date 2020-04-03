@@ -1,0 +1,24 @@
+.article{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+    left: 0px;
+}
+
+.article_box-column{
+    font-size: 30px;
+    width: 400px;
+    height: 60px;
+    background-color: thistle;
+    text-align: center;
+    padding: 10px;
+    border-radius: 30px;
+    animation: float 4s linear infinite forwards;
+}
+
+
+
+.article_box-column-title{
+    font-size: 22px;
+}
+

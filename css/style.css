@@ -116,5 +116,9 @@ body{
   }
 
   .movie{
+   
+    display: flex;
+    justify-content: center;
+    align-self: center;
     margin-top: 40px;
   }
